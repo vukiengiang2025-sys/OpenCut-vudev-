@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OpenCut</string>
+    <string name="tagline">Free and open-source video editor</string>
+    <string name="new_project">New Project</string>
+    <string name="projects_heading">Projects</string>
+    <string name="empty_projects_title">No projects yet</string>
+    <string name="empty_projects_subtitle">Start a timeline from a canvas preset or import clips directly from your gallery.</string>
+    <string name="panel_browser">Browser</string>
+    <string name="panel_preview">Preview</string>
+    <string name="panel_inspector">Inspector</string>
+    <string name="panel_timeline">Timeline</string>
+    <string name="action_import_media">Import Media</string>
+    <string name="action_import_audio">Import Audio</string>
+    <string name="action_add_text">Add Text</string>
+    <string name="action_add_shape">Add Shape</string>
+    <string name="action_add_blur">Blur Effect</string>
+    <string name="action_add_bookmark">Bookmark</string>
+    <string name="action_export">Export</string>
+    <string name="action_split">Split</string>
+    <string name="action_ripple">Ripple</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_duplicate">Duplicate</string>
+    <string name="action_undo">Undo</string>
+    <string name="action_redo">Redo</string>
+    <string name="action_play">Play</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_back">Back</string>
+    <string name="action_toggle_theme">Toggle Theme</string>
+    <string name="export_title">Export Video</string>
+    <string name="export_completed">Export completed</string>
+    <string name="export_share">Share MP4</string>
+    <string name="export_cancel">Cancel</string>
+</resources>
